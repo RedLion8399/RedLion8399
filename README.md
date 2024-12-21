@@ -13,7 +13,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RedLion8399&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RedLion8399&theme=dark&hide_border=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedLion8399)](https://github.com/RedLion8399/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedLion8399&theme=dark&hide_border=false)](https://github.com/RedLion8399/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RedLion8399&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=RedLion8399&icon=0&color=3)](https://visitcount.itsvg.in)
