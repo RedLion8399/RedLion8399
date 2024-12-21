@@ -1,5 +1,8 @@
 # 💫 About Me:
-🏫I'm still in school, visiting the 10th class. Last year I chose computer science as main focus when we were able to chose one.<br>Even thought my first experience in programming, I collected many years earlier. Since then, I always tried to learn something new<br>and make new experiences.<br>📕This journey started with scratch, which I worked in for many years. A few years ago I stared to learn python and immediately<br>loved this language. Over time, I made more progress with many different projects which taught me, e.g. working with git and GitHub,<br>writing unit tests, following conventions and much more.<br>🌱 Currently, I'm learning C# in Unity.<br>✒️Some of my projects are also developed in school with special condition. So if there might be some repos, to seem<br>different from that you're used to, then it's because of the rules and conditions we have in school.
+🏫I'm still in school, visiting the 10th class. Last year I chose computer science as main focus when we were able to chose one. Even thought my first experience in programming, I collected many years earlier. Since then, I always tried to learn something new and make new experiences.<br>
+📕This journey started with scratch, which I worked in for many years. A few years ago I stared to learn python and immediately<br>loved this language. Over time, I made more progress with many different projects which taught me, e.g. working with git and GitHub, writing unit tests, following conventions and much more.<br>
+🌱 Currently, I'm learning C# in Unity.<br>
+✒️Some of my projects are also developed in school with special condition. So if there might be some repos, to seem different from that you're used to, then it's because of the rules and conditions we have in school.
 
 
 ## 🌐 Socials:
