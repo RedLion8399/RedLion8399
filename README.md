@@ -32,3 +32,10 @@ Some of my school projects may look a bit different due to special rules and con
 💬 **Feel free to connect or check out my repositories. I'm always open to feedback and collaboration!**
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<a href="https://redlion8399.pythonanywhere.com/link">
+  <img
+    src="https://redlion8399.pythonanywhere.com"
+    alt="Current Spotify Song"
+  />
+</a>
