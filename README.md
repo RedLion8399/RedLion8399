@@ -6,15 +6,14 @@
 ![GitHub Streak staistics](https://github-readme-streak-stats.herokuapp.com/?user=RedLion8399&theme=dark&hide_border=false)
 
 
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RedLion8399/RedLion8399/output/github-snake-dark.svg"/>
-	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RedLion8399/RedLion8399/output/github-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/RedLion8399/RedLion8399/output/github-snake.svg"/>
-</picture>
+![GitHub Snake](https://raw.githubusercontent.com/RedLion8399/RedLion8399/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake](https://raw.githubusercontent.com/RedLion8399/RedLion8399/output/github-snake-dark.svg#gh-dark-mode-only)
 
 
 ## 🚀 Projects:
-...
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Dino&theme=light)](https://github.com/RedLion8399/Dino#gh-light-mode-only)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Scotland-Yard&theme=light)](https://github.com/RedLion8399/Scotland-Yard#gh-light-mode-only)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=banking_machine&theme=light)](https://github.com/RedLion8399/banking_machine#gh-light-mode-only)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Informatik_Projektarbeit_Pruefungsordnung&theme=light)](https://github.com/RedLion8399/Informatik_Projektarbeit_Pruefungsordnung#gh-light-mode-only)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Dino&theme=dark)](https://github.com/RedLion8399/Dino#gh-dark-mode-only)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Scotland-Yard&theme=dark)](https://github.com/RedLion8399/Scotland-Yard#gh-dark-mode-only)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=banking_machine&theme=dark)](https://github.com/RedLion8399/banking_machine#gh-dark-mode-only)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Informatik_Projektarbeit_Pruefungsordnung&theme=dark)](https://github.com/RedLion8399/Informatik_Projektarbeit_Pruefungsordnung#gh-dark-mode-only)
 
 
 ## 💻 Tech Stack:
@@ -35,7 +34,7 @@
 Some of my school projects may look a bit different due to special rules and conditions we follow in class.
 
 
-![Git Hub Stats](https://github-readme-stats.vercel.app/api?username=RedLion8399&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![Git Hub Stats](https://github-readme-stats.vercel.app/api?username=RedLion8399&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
 
 
 <a href="https://redlion8399.pythonanywhere.com/link">
