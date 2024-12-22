@@ -6,9 +6,15 @@
 ![GitHub Streak staistics](https://github-readme-streak-stats.herokuapp.com/?user=RedLion8399&theme=dark&hide_border=false)
 
 
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RedLion8399/RedLion8399/output/github-snake-dark.svg"/>
+	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RedLion8399/RedLion8399/output/github-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/RedLion8399/RedLion8399/output/github-snake.svg"/>
+</picture>
+
+
 ## 🚀 Projects:
 ...
-
 
 
 ## 💻 Tech Stack:
@@ -16,7 +22,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedLion8399&theme=dark&hide_border=false)](https://github.com/RedLion8399/github-readme-stats)
-
 
 
 ## 📕 My Learning Journey:
@@ -33,7 +38,6 @@ Some of my school projects may look a bit different due to special rules and con
 ![Git Hub Stats](https://github-readme-stats.vercel.app/api?username=RedLion8399&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
 
-
 <a href="https://redlion8399.pythonanywhere.com/link">
     <picture>
         <source media="(prefers-color-scheme: light)" srcset="https://redlion8399.pythonanywhere.com/?eq_color=rainbow">
@@ -41,6 +45,7 @@ Some of my school projects may look a bit different due to special rules and con
         <img src="https://redlion8399.pythonanywhere.com/?eq_color=rainbow" alt="Current Spotify Song"/>
     </picture>
 </a>
+
 
 [![Profile views](https://visitcount.itsvg.in/api?id=RedLion8399&icon=0&color=3)](https://visitcount.itsvg.in)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28881529)
