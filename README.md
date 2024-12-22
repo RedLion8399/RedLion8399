@@ -21,9 +21,11 @@
 
 
 <a href="https://redlion8399.pythonanywhere.com/link">
-    <source media="(prefers-color-scheme: light)" src="https://redlion8399.pythonanywhere.com/?eq_color=rainbow">
-    <source media="(prefers-color-scheme: dark)" src="https://redlion8399.pythonanywhere.com/?eq_color=rainbow&theme=dark">
-    <img src="https://redlion8399.pythonanywhere.com/?eq_color=rainbow" alt="Current Spotify Song"/>
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://redlion8399.pythonanywhere.com/?eq_color=rainbow">
+        <source media="(prefers-color-scheme: dark)" srcset="https://redlion8399.pythonanywhere.com/?eq_color=rainbow&theme=dark">
+        <img src="https://redlion8399.pythonanywhere.com/?eq_color=rainbow" alt="Current Spotify Song"/>
+    </picture>
 </a>
 
 ---
