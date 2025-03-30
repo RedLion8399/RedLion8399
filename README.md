@@ -46,7 +46,6 @@ Some of my school projects may look a bit different due to special rules and con
 </a>
 
 
-[![Profile views](https://visitcount.itsvg.in/api?id=RedLion8399&icon=0&color=3)](https://visitcount.itsvg.in)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28881529)
 
 
