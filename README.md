@@ -1,8 +1,14 @@
 # 👋 Hi there! I'm Paul Jonas from Germany
 I love coding in my free time and enjoy exploring new technologies. Currently, I'm in the 11th grade and passionate about learning and creating new things.
 
-
-![GitHub Streak staistics](https://github-readme-streak-stats.herokuapp.com/?user=RedLion8399&theme=dark&hide_border=false)
+<p style="text-align: center">
+  <a href="https://github.com/RedLion8399">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RedLion8399&theme=dark&hide_border=false" alt="GitHub Streak staistics" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api?username=RedLion8399&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=RedLion8399&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Streak Stats" />
+  </a>
+</p>
 
 
 ![GitHub Snake](https://raw.githubusercontent.com/RedLion8399/RedLion8399/output/github-snake.svg#gh-light-mode-only)
@@ -35,16 +41,15 @@ As you might notice, I'm still in school and completely self-taught. Therefore, 
 - :rocket: In the future I hope to close more of these gaps and ehile constantly learning new things. Nevertheless I do not plan to study computer science neither to become a professional software engineer.
 
 
-![Git Hub Stats](https://github-readme-stats.vercel.app/api?username=RedLion8399&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
-
-
-<a href="https://redlion8399.pythonanywhere.com/link">
-    <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://redlion8399.pythonanywhere.com/?eq_color=rainbow">
-        <source media="(prefers-color-scheme: dark)" srcset="https://redlion8399.pythonanywhere.com/?eq_color=rainbow&theme=dark">
-        <img src="https://redlion8399.pythonanywhere.com/?eq_color=rainbow" alt="Current Spotify Song"/>
-    </picture>
-</a>
+<p style="text-align: center">
+  <a href="https://redlion8399.pythonanywhere.com/link">
+      <picture>
+          <source media="(prefers-color-scheme: light)" srcset="https://redlion8399.pythonanywhere.com/?eq_color=rainbow">
+          <source media="(prefers-color-scheme: dark)" srcset="https://redlion8399.pythonanywhere.com/?eq_color=rainbow&theme=dark">
+          <img src="https://redlion8399.pythonanywhere.com/?eq_color=rainbow" alt="Current Spotify Song"/>
+      </picture>
+  </a>
+</p>
 
 
 [![Profile views](https://visitcount.itsvg.in/api?id=RedLion8399&icon=0&color=3)](https://visitcount.itsvg.in)
