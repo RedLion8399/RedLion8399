@@ -1,6 +1,5 @@
-# 💫 About Me:
-
-👋 Hi there! I'm Paul Jonas. I love coding in my free time and enjoy exploring new technologies. Currently, I'm in the 10th grade and passionate about learning and creating.
+# 👋 Hi there! I'm Paul Jonas from Germany
+I love coding in my free time and enjoy exploring new technologies. Currently, I'm in the 11th grade and passionate about learning and creating new things.
 
 
 ![GitHub Streak staistics](https://github-readme-streak-stats.herokuapp.com/?user=RedLion8399&theme=dark&hide_border=false)
@@ -23,15 +22,17 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedLion8399&theme=dark&hide_border=false)](https://github.com/RedLion8399/github-readme-stats)
 
 
-## 📕 My Learning Journey:
-- 🏫 I chose computer science as my focus in school in 2023 because many years earlier, I discovered my fondness for this topic.
-- 🐍 A few years ago, I started learning Python and immediately loved its simplicity and versatility. Since then, I've worked on various projects, honing my skills in basic areas like:
-  - Writing unit tests
-  - Using Git and GitHub
-  - Following coding conventions
-- 🌱 Currently, I'm exploring C# and Unity to create exciting game projects.
+## :closed_book: My Learning Journey:
+- :child: discovered my fondness for coding at an early age while playing with a Lego Mindstorms EV3 robot, which I first programmed using a block-based language. Later, I tried programming it in Python.
+- :school: I chose computer science as my focus in school in 2023 although we learned very few concepts using Scratch and a little bit of python.
+- :snake: Parallel to this class, I studied Python on my own. As these projects grew, I automatically discovered how code is organized and automated. Since then, I can call myself self-taught in areas such as:
+  - Version control and open source contribution using Git
+  - Code conventions, automated testing and documentation using CI/CD pipeliness
+- :seedling: At the beginning of sixth form, I chose a computer science course again, where we are currently learning OOP in Java.
 
-Some of my school projects may look a bit different due to special rules and conditions we follow in class.
+As you might notice, I'm still in school and completely self-taught. Therefore, there are still huge gaps in my knowledge that I am not even aware of yet.
+
+- :rocket: In the future I hope to close more of these gaps and ehile constantly learning new things. Nevertheless I do not plan to study computer science neither to become a professional software engineer.
 
 
 ![Git Hub Stats](https://github-readme-stats.vercel.app/api?username=RedLion8399&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
