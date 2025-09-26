@@ -21,11 +21,28 @@ I love coding in my free time and enjoy exploring new technologies. Currently, I
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Dino&theme=dark)](https://github.com/RedLion8399/Dino#gh-dark-mode-only)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Scotland-Yard&theme=dark)](https://github.com/RedLion8399/Scotland-Yard#gh-dark-mode-only)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=banking_machine&theme=dark)](https://github.com/RedLion8399/banking_machine#gh-dark-mode-only)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Informatik_Projektarbeit_Pruefungsordnung&theme=dark)](https://github.com/RedLion8399/Informatik_Projektarbeit_Pruefungsordnung#gh-dark-mode-only)
 
 
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+## 💻 Tech Stack
+These are technologies I have worked with or am currently learning:
 
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-0B100F.svg?style=for-the-badge&logo=Windsurf&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedLion8399&theme=dark&hide_border=false)](https://github.com/RedLion8399/github-readme-stats)
+<p style="text-align: center">
+  <a src="https://github.com/RedLion8399/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedLion8399&layout=donut-vertical&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+  </a>
+</p>
 
 
 ## :closed_book: My Learning Journey:
@@ -53,7 +70,12 @@ As you might notice, I'm still in school and completely self-taught. Therefore, 
 
 
 [![Profile views](https://visitcount.itsvg.in/api?id=RedLion8399&icon=0&color=3)](https://visitcount.itsvg.in)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28881529)
+
+
+<a href="https://stackoverflow.com/users/28881529" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="28881529" height="30" width="40" />
+</a>
+
 
 
 💬 **Feel free to connect or check out my repositories. I'm always open to feedback and collaboration!**
