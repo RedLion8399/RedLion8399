@@ -82,12 +82,9 @@ As you might notice, I'm still in school and completely self-taught. Therefore, 
   </a>
 </p>
 
-
-
 <a href="https://stackoverflow.com/users/28881529" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="28881529" height="30" width="40" />
 </a>
-
 
 
 💬 **Feel free to connect or check out my repositories. I'm always open to feedback and collaboration!**
