@@ -10,9 +10,10 @@ I love coding in my free time and enjoy exploring new technologies. Currently, I
   </a>
 </p>
 
-
-![GitHub Snake](https://raw.githubusercontent.com/RedLion8399/RedLion8399/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake](https://raw.githubusercontent.com/RedLion8399/RedLion8399/output/github-snake-dark.svg#gh-dark-mode-only)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RedLion8399/RedLion8399/output/github-snake.svg#gh-light-mode-only" alt="GitHub Snake">
+  <img src="https://raw.githubusercontent.com/RedLion8399/RedLion8399/output/github-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake">
+</p>
 
 
 ## 🚀 Projects:
