@@ -16,10 +16,23 @@ I love coding in my free time and enjoy exploring new technologies. Currently, I
 </p>
 
 
-## 🚀 Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Dino&theme=light)](https://github.com/RedLion8399/Dino#gh-light-mode-only)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Scotland-Yard&theme=light)](https://github.com/RedLion8399/Scotland-Yard#gh-light-mode-only)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=banking_machine&theme=light)](https://github.com/RedLion8399/banking_machine#gh-light-mode-only)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Informatik_Projektarbeit_Pruefungsordnung&theme=light)](https://github.com/RedLion8399/Informatik_Projektarbeit_Pruefungsordnung#gh-light-mode-only)
+## :rocket: Projects
+Here you can find an excerpt of from all of my public projects. As you know a project is never finished and can always be improved. Neverltheless I will try to give you an overview of the state some of them are currently in.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Dino&theme=dark)](https://github.com/RedLion8399/Dino#gh-dark-mode-only)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Scotland-Yard&theme=dark)](https://github.com/RedLion8399/Scotland-Yard#gh-dark-mode-only)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=banking_machine&theme=dark)](https://github.com/RedLion8399/banking_machine#gh-dark-mode-only)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Informatik_Projektarbeit_Pruefungsordnung&theme=dark)](https://github.com/RedLion8399/Informatik_Projektarbeit_Pruefungsordnung#gh-dark-mode-only)
+### These projects are currently in development:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Improved-Greenfoot-World&theme=light)](https://github.com/RedLion8399/Improved-Greenfoot-World#gh-light-mode-only) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Improved-Greenfoot-World&theme=dark)](https://github.com/RedLion8399/Improved-Greenfoot-World#gh-dark-mode-only)
+
+
+### These projects provide a stable release and can be used although there might be further development on it if I am in the mood to do so:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Dino&theme=light)](https://github.com/RedLion8399/Dino#gh-light-mode-only) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Dino&theme=dark)](https://github.com/RedLion8399/Dino#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Scotland-Yard&theme=light)](https://github.com/RedLion8399/Scotland-Yard#gh-light-mode-only) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Scotland-Yard&theme=dark)](https://github.com/RedLion8399/Scotland-Yard#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Weather-App&theme=light)](https://github.com/RedLion8399/Weather-App#gh-light-mode-only) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Weather-App&theme=dark)](https://github.com/RedLion8399/Weather-App#gh-dark-mode-only)
+
+
+### These projects are finished and will not be updated anymore:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Informatik_Projektarbeit_Pruefungsordnung&theme=light)](https://github.com/RedLion8399/Informatik_Projektarbeit_Pruefungsordnung#gh-light-mode-only) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Informatik_Projektarbeit_Pruefungsordnung&theme=dark)](https://github.com/RedLion8399/Informatik_Projektarbeit_Pruefungsordnung#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Scratch_Hot_air_ballon&theme=light)](https://github.com/RedLion8399/Scratch_Hot_air_ballon#gh-light-mode-only) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Scratch_Hot_air_ballon&theme=dark)](https://github.com/RedLion8399/Scratch_Hot_air_ballon#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=EV3_rubiks_cube-solver&theme=light)](https://github.com/RedLion8399/EV3_rubiks_cube-solver#gh-light-mode-only) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=EV3_rubiks_cube-solver&theme=dark)](https://github.com/RedLion8399/EV3_rubiks_cube-solver#gh-dark-mode-only)
 
 
 ## 💻 Tech Stack
