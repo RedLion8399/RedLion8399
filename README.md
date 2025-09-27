@@ -22,7 +22,7 @@ I love coding in my free time and enjoy exploring new technologies. Currently, I
 
 
 ## 💻 Tech Stack
-These are technologies I have worked with or am currently learning:
+These are technologies I have worked with or am currently learning and tools I use.:
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
