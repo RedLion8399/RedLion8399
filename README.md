@@ -3,7 +3,7 @@ I love coding in my free time and enjoy exploring new technologies. Currently, I
 
 <p align="center">
   <a href="https://github.com/RedLion8399">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RedLion8399&theme=dark&hide_border=false" alt="GitHub Streak staistics" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RedLion8399&theme=dark&hide_border=false" alt="GitHub Streak statistics" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api?username=RedLion8399&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true">
     <img src="https://github-readme-stats.vercel.app/api?username=RedLion8399&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Streak Stats" />
@@ -17,7 +17,7 @@ I love coding in my free time and enjoy exploring new technologies. Currently, I
 
 
 ## :rocket: Projects
-Here you can find an excerpt of from all of my public projects. As you know a project is never finished and can always be improved. Neverltheless I will try to give you an overview of the state some of them are currently in.
+Here you can find an excerpt from all of my public projects. As you know, a project is never finished and can always be improved. Nevertheless, I will try to give you an overview of the state some of them are currently in.
 
 ### These projects are currently in development:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Improved-Greenfoot-World&theme=light)](https://github.com/RedLion8399/Improved-Greenfoot-World#gh-light-mode-only) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Improved-Greenfoot-World&theme=dark)](https://github.com/RedLion8399/Improved-Greenfoot-World#gh-dark-mode-only)
@@ -53,7 +53,7 @@ These are technologies I have worked with or am currently learning and tools I u
 ![Windsurf](https://img.shields.io/badge/Windsurf-0B100F.svg?style=for-the-badge&logo=Windsurf&logoColor=white)
 
 <p align="center">
-  <a src="https://github.com/RedLion8399/github-readme-stats">
+  <a href="https://github.com/RedLion8399/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedLion8399&layout=donut-vertical&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
   </a>
 </p>
