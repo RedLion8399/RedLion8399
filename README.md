@@ -69,8 +69,6 @@ As you might notice, I'm still in school and completely self-taught. Therefore, 
 </p>
 
 
-[![Profile views](https://visitcount.itsvg.in/api?id=RedLion8399&icon=0&color=3)](https://visitcount.itsvg.in)
-
 
 <a href="https://stackoverflow.com/users/28881529" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="28881529" height="30" width="40" />
