@@ -54,7 +54,7 @@ These are technologies I have worked with or am currently learning and tools I u
 
 <p align="center">
   <a href="https://github.com/RedLion8399/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedLion8399&layout=donut-vertical&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedLion8399&layout=donut-vertical&theme=dark&hide_border=false" alt="GitHun Languages Stats" />
   </a>
 </p>
 
@@ -64,12 +64,12 @@ These are technologies I have worked with or am currently learning and tools I u
 - :school: I chose computer science as my focus in school in 2023 although we learned very few concepts using Scratch and a little bit of python.
 - :snake: Parallel to this class, I studied Python on my own. As these projects grew, I automatically discovered how code is organized and automated. Since then, I can call myself self-taught in areas such as:
   - Version control and open source contribution using Git
-  - Code conventions, automated testing and documentation using CI/CD pipeliness
+  - Code conventions, automated testing and documentation using CI/CD pipelines
 - :seedling: At the beginning of sixth form, I chose a computer science course again, where we are currently learning OOP in Java.
 
 As you might notice, I'm still in school and completely self-taught. Therefore, there are still huge gaps in my knowledge that I am not even aware of yet.
 
-- :rocket: In the future I hope to close more of these gaps and ehile constantly learning new things. Nevertheless I do not plan to study computer science neither to become a professional software engineer.
+- :rocket: In the future I hope to close more of these gaps and while constantly learning new things. Nevertheless I do not plan to study computer science neither to become a professional software engineer.
 
 
 <p align="center">
