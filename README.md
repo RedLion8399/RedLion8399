@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Paul Jonas from Germany
 I love coding in my free time and enjoy exploring new technologies. Currently, I'm in the 11th grade and passionate about learning and creating new things.
 
-<p style="text-align: center">
+<p align="center">
   <a href="https://github.com/RedLion8399">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RedLion8399&theme=dark&hide_border=false" alt="GitHub Streak staistics" />
   </a>
@@ -38,7 +38,7 @@ These are technologies I have worked with or am currently learning and tools I u
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf-0B100F.svg?style=for-the-badge&logo=Windsurf&logoColor=white)
 
-<p style="text-align: center">
+<p align="center">
   <a src="https://github.com/RedLion8399/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedLion8399&layout=donut-vertical&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
   </a>
@@ -58,7 +58,7 @@ As you might notice, I'm still in school and completely self-taught. Therefore, 
 - :rocket: In the future I hope to close more of these gaps and ehile constantly learning new things. Nevertheless I do not plan to study computer science neither to become a professional software engineer.
 
 
-<p style="text-align: center">
+<p align="center">
   <a href="https://redlion8399.pythonanywhere.com/link">
       <picture>
           <source media="(prefers-color-scheme: light)" srcset="https://redlion8399.pythonanywhere.com/?eq_color=rainbow">
