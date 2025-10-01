@@ -6,7 +6,7 @@ I love coding in my free time and enjoy exploring new technologies. Currently, I
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RedLion8399&theme=dark&hide_border=false" alt="GitHub Streak statistics" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api?username=RedLion8399&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=RedLion8399&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=RedLion8399&theme=dark&hide_border=false&show_icons=true" alt="GitHub Streak Stats" />
   </a>
 </p>
 
@@ -21,6 +21,7 @@ Here you can find an excerpt from all of my public projects. As you know, a proj
 
 ### These projects are currently in development:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Improved-Greenfoot-World&theme=light)](https://github.com/RedLion8399/Improved-Greenfoot-World#gh-light-mode-only) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Improved-Greenfoot-World&theme=dark)](https://github.com/RedLion8399/Improved-Greenfoot-World#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Greenfoot-Rover-Game&theme=light)](https://github.com/RedLion8399/Greenfoot-Rover-Game#gh-light-mode-only) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedLion8399&repo=Greenfoot-Rover-Game&theme=dark)](https://github.com/RedLion8399/Greenfoot-Rover-Game#gh-dark-mode-only)
 
 
 ### These projects provide a stable release and can be used although there might be further development on it if I am in the mood to do so:
